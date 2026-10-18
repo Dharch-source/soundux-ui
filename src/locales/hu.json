@@ -214,6 +214,18 @@
     "20": "A némítás sikertelen",
     "21": "Az egyedi hang beálíltása sikertelen",
     "error": "Hiba",
-    "backendFunctionMissing": "Az alábbi háttéralkalmazás hiányzik: {functionName}"
+    "backendFunctionMissing": "Az alábbi háttéralkalmazás hiányzik: {functionName}",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

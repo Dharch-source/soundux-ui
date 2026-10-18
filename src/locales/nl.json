@@ -23,7 +23,9 @@
     "1": "Zoeken mislukt",
     "0": "Afspelen mislukt",
     "20": "Dempen mislukt",
-    "21": "Aangepast volume instellen mislukt"
+    "21": "Aangepast volume instellen mislukt",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
   },
   "systemInfo": {
     "copyToClipboard": "Kopieer naar klembord",
@@ -211,5 +213,15 @@
     "selectMic": "Selecteer alstublieft uw microfoon en ga verder",
     "administrativePrivilegesNeeded": "Administrator rechten vereist!",
     "restartAsAdmin": "Herstart als administrator"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

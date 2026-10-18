@@ -200,7 +200,9 @@
     "error": "Hata",
     "backendFunctionMissing": "Arka uç işlevi eksik: {functionName}",
     "21": "Özel ses düzeyi ayarlanamadı",
-    "20": "Sessize alınamadı"
+    "20": "Sessize alınamadı",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
   },
   "windows": {
     "restartAsAdmin": "Yönetici olarak yeniden başlat",
@@ -215,5 +217,15 @@
   "customVolume": {
     "setFor": "{soundName} için ses seviyesini ayarla",
     "context": "Özel ses seviyesini ayarla"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

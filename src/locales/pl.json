@@ -214,6 +214,18 @@
     "11": "Nie udało się cofnąć",
     "12": "Nie udało się cofnąć przekazu do aplikacji",
     "17": "Nie udało się zinterpretować pliku JSON youtube-dl",
-    "backendFunctionMissing": "Brak funkcji backendu: {functionName}"
+    "backendFunctionMissing": "Brak funkcji backendu: {functionName}",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

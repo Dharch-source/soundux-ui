@@ -214,6 +214,18 @@
     "20": "Failed to mute",
     "21": "Failed to set custom volume",
     "error": "Error",
-    "backendFunctionMissing": "Backend function missing: {functionName}"
+    "backendFunctionMissing": "Backend function missing: {functionName}",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

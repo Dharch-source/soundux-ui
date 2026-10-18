@@ -107,7 +107,9 @@
     "15": "YouTube-dl கிடைக்கவில்லை",
     "16": "தவறான முகவரி",
     "17": "YouTube-DL சாதொபொகு ஐ அலசத் தவறிவிட்டது",
-    "18": "தெரியாத YouTube-DL தோல்வி"
+    "18": "தெரியாத YouTube-DL தோல்வி",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
   },
   "outputDevice": "வெளியீட்டு சாதனம்",
   "removeTab": {
@@ -215,5 +217,15 @@
     "automaticSetup": "தானாக அமைக்கவும்",
     "administrativePrivilegesNeeded": "நிர்வாக சலுகைகள் தேவை!",
     "restartAsAdmin": "நிர்வாகியாக மறுதொடக்கம் செய்யுங்கள்"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

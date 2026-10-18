@@ -18,6 +18,7 @@
       {{ $t('actions.reloadSounds') }}
     </v-btn>
     <DownloaderModal></DownloaderModal>
+    <TtsModal></TtsModal>
     <v-btn
       :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-1'"
       class="mb-2"
@@ -160,6 +161,7 @@ import Vue from 'vue';
 import SettingsModal from '@/components/modals/SettingsModal.vue';
 import HelpModal from '@/components/modals/HelpModal.vue';
 import DownloaderModal from '@/components/modals/DownloaderModal.vue';
+import TtsModal from '@/components/modals/TtsModal.vue';
 import SystemInfoModal from '@/components/modals/SystemInfoModal.vue';
 
 export default Vue.extend({
@@ -167,6 +169,7 @@ export default Vue.extend({
   components: {
     SystemInfoModal,
     DownloaderModal,
+    TtsModal,
     HelpModal,
     SettingsModal,
   },

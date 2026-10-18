@@ -134,7 +134,9 @@
     "19": "Error al eliminar el archivo",
     "20": "Error al silenciar",
     "21": "Error al establecer un volumen personalizado",
-    "error": "Error"
+    "error": "Error",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
   },
   "help": {
     "visitOurWebsite": "Visita nuestra página web",
@@ -215,5 +217,15 @@
     "title": "Información del sistema",
     "description": "Adjunta esta información cuando crees un reporte de bug",
     "copyToClipboard": "Copiar al portapapeles"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

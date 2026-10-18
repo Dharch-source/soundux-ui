@@ -23,7 +23,9 @@
     "17": "Αποτυχία ανάλυσης του JSON του youtube-dl",
     "18": "Άγνωστο σφάλμα του youtube-dl",
     "21": "Αποτυχία ορισμού προσαρμοσμένης έντασης",
-    "20": "Αποτυχία σίγασης"
+    "20": "Αποτυχία σίγασης",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
   },
   "actions": {
     "addTab": "Προσθήκη καρτέλας",
@@ -215,5 +217,15 @@
   "customVolume": {
     "setFor": "Ορισμός έντασης για {soundName}",
     "context": "Ορισμός προσαρμοσμένης έντασης"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

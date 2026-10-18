@@ -23,7 +23,9 @@
     "21": "Klarte ikke å sette egendefinert lydstyrke",
     "16": "Ugyldig nettadresse",
     "17": "Klarte ikke å tolke JSON fra youtube-dl",
-    "15": "Fant ikke youtube-dl"
+    "15": "Fant ikke youtube-dl",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
   },
   "search": {
     "typeToSearch": "Skriv for å søke",
@@ -215,5 +217,15 @@
   "deleteSound": {
     "question": "Slett lyden {soundName}?",
     "delete": "Slett"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

@@ -143,7 +143,9 @@
     "18": "فشل غير معروف youtube-dl",
     "19": "فشل حذف الملف",
     "20": "فشل في كتم الصوت",
-    "error": "خطأ"
+    "error": "خطأ",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
   },
   "appPassThrough": {
     "title": "تمرير التطبيق من خلال",
@@ -214,5 +216,15 @@
     "local": "الحجم المحلي",
     "remote": "مستوى الصوت عن بعد",
     "sync": "مزامنة وحدات التخزين"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

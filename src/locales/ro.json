@@ -73,7 +73,9 @@
     "3": "Nu s-a putut repeta",
     "2": "Nu s-a putut pune pe pauză",
     "1": "Nu s-a putut căuta",
-    "0": "Nu s-a putut reda"
+    "0": "Nu s-a putut reda",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
   },
   "windows": {
     "restartAsAdmin": "Restartează ca admin",
@@ -215,5 +217,15 @@
     "refresh": "Reîncarcă"
   },
   "outputDevice": "Dispozitiv de ieșire",
-  "outputApp": "Aplicație de ieșire"
+  "outputApp": "Aplicație de ieșire",
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
+  }
 }

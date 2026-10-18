@@ -158,5 +158,15 @@
   "downloader": {
     "title": "ダウンローダー",
     "notAvailable": "{youtube-dl}と(もしくは){ffmpeg}がインストールされていません"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }

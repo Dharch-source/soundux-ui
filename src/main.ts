@@ -55,6 +55,11 @@ declare global {
     setHotkey: (id: number, hotkeys: number[]) => Promise<void>;
     stopSounds: () => Promise<void>;
     playSound: (id: number) => Promise<PlayingSound | null>;
+    /**
+     * Synthesize text through the TTS endpoint and play it through the regular
+     * sound routing (speakers + selected output device / virtual mic).
+     */
+    playTTS: (text: string, language: string, speed: number) => Promise<PlayingSound | null>;
     pauseSound: (id: number) => Promise<PlayingSound | null>;
     resumeSound: (id: number) => Promise<PlayingSound | null>;
     toggleSoundPlayback: () => Promise<boolean | null>;

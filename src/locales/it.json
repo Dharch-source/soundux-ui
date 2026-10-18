@@ -96,7 +96,9 @@
     "1": "Impossibile cercare",
     "13": "Impossibile ripristinare l'origine predefinita",
     "20": "Impossibile disattivare l'audio",
-    "2": "Impossibile mettere in pausa"
+    "2": "Impossibile mettere in pausa",
+    "22": "Text is empty",
+    "23": "Could not reach the speech service"
   },
   "input": {
     "shift": "Shift",
@@ -215,5 +217,15 @@
     "copyToClipboard": "Copia negli appunti",
     "description": "Allega queste informazioni quando crei un rapporto di bug",
     "title": "Informazioni di sistema"
+  },
+  "tts": {
+    "title": "Text to Speech",
+    "placeholder": "Type or paste text here...",
+    "language": "Language",
+    "speed": "Speed",
+    "play": "Play",
+    "failed": "Speech could not be generated. Check your connection.",
+    "close": "Close",
+    "chars": "characters"
   }
 }
